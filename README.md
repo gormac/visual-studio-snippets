@@ -3,6 +3,7 @@
 ### About ###
 
 Repository to share Visual Studio code snippets. See [MSDN](https://msdn.microsoft.com/en-us/library/ms165392.aspx "https://msdn.microsoft.com/en-us/library/ms165392.aspx") for more information about code snippets.
+Code snippets should work for all versions of Visual Studio.
 
 ### Installation ###
 
